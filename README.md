@@ -1,5 +1,7 @@
 # Codewars Codes in Python
 
+https://www.codewars.com/users/gdcho/badges/large
+
 <a href="https://www.codewars.com/users/gdcho">My Profile 🤠</a>
 Clan: MiSaeng 
 
