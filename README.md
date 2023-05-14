@@ -1,5 +1,7 @@
 # Codewars Codes in Python
 
+<img src = "https://www.codewars.com/users/gdcho/badges/large"> </img>
+
 <a href="https://www.codewars.com/users/gdcho">My Profile 🤠</a>
 Clan: MiSaeng 
 
